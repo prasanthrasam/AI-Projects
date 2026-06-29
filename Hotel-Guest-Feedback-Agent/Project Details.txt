@@ -1,0 +1,5 @@
+The Agent is about
+
+1. Once the feedback filled in Google Forms by guest, collate them in Google Sheet
+2. Analyse the feedback provided and provide"Action" column based on feedback
+3. Send mail to guest based on feedback provided.
